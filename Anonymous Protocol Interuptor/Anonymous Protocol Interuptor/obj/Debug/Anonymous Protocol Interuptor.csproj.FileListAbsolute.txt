@@ -1,0 +1,13 @@
+C:\Users\kille\source\repos\Anonymous Protocol Interuptor\Anonymous Protocol Interuptor\bin\Debug\Anonymous Protocol Interuptor.exe.config
+C:\Users\kille\source\repos\Anonymous Protocol Interuptor\Anonymous Protocol Interuptor\bin\Debug\Anonymous Protocol Interuptor.exe
+C:\Users\kille\source\repos\Anonymous Protocol Interuptor\Anonymous Protocol Interuptor\bin\Debug\Anonymous Protocol Interuptor.pdb
+C:\Users\kille\source\repos\Anonymous Protocol Interuptor\Anonymous Protocol Interuptor\obj\Debug\Anonymous Protocol Interuptor.csproj.AssemblyReference.cache
+C:\Users\kille\source\repos\Anonymous Protocol Interuptor\Anonymous Protocol Interuptor\obj\Debug\Anonymous_Protocol_Interuptor.Properties.Resources.resources
+C:\Users\kille\source\repos\Anonymous Protocol Interuptor\Anonymous Protocol Interuptor\obj\Debug\Anonymous Protocol Interuptor.csproj.GenerateResource.cache
+C:\Users\kille\source\repos\Anonymous Protocol Interuptor\Anonymous Protocol Interuptor\obj\Debug\Anonymous Protocol Interuptor.csproj.CoreCompileInputs.cache
+C:\Users\kille\source\repos\Anonymous Protocol Interuptor\Anonymous Protocol Interuptor\obj\Debug\Anonymous Protocol Interuptor.exe
+C:\Users\kille\source\repos\Anonymous Protocol Interuptor\Anonymous Protocol Interuptor\obj\Debug\Anonymous Protocol Interuptor.pdb
+C:\Users\kille\source\repos\Anonymous Protocol Interuptor\Anonymous Protocol Interuptor\bin\Debug\FastColoredTextBox.dll
+C:\Users\kille\source\repos\Anonymous Protocol Interuptor\Anonymous Protocol Interuptor\obj\Debug\Anonymou.900BA38F.Up2Date
+C:\Users\kille\source\repos\Anonymous Protocol Interuptor\Anonymous Protocol Interuptor\bin\Debug\MaterialSkin.dll
+C:\Users\kille\source\repos\Anonymous Protocol Interuptor\Anonymous Protocol Interuptor\obj\Debug\Anonymous_Protocol_Interuptor.API.resources
